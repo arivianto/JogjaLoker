@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "259945716597",
+    "firebase_url": "https://jogjaloker-833e7.firebaseio.com",
+    "project_id": "jogjaloker-833e7",
+    "storage_bucket": "jogjaloker-833e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259945716597:android:ffd021456d231096",
+        "android_client_info": {
+          "package_name": "id.devloved.jogjaloker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259945716597-rap135l7d6s0abnom8snh1uttekur2is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.devloved.jogjaloker",
+            "certificate_hash": "b642c287d8a1dda211e5d6fef64bfa00015f7a08"
+          }
+        },
+        {
+          "client_id": "259945716597-go9fuqiaatqpks53hohuetp3d8qipq2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ljIZa5AuSeIZYLarC0c7XAhRI3WwQ-Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259945716597-go9fuqiaatqpks53hohuetp3d8qipq2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
